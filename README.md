@@ -1,5 +1,5 @@
-# Site-PublicAudiovisual XR
- [**PublicAudiovisual XR**](https://publicaudiovisual.com) website: 
+# Site-QXR20.academy
+ [**QXR20.academy**](https://qxr20.academy) Learn website: 
  
  [![build status][publicxr-image]][publicxr-url]
  ![PublicAudiovisual XR - Index](https://github.com/PublicAudiovisualXR/Site-PublicAudiovisual-XR/blob/main/assets/Images/Base/PublicAudiovisual_Index.png)
